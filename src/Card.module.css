@@ -1,0 +1,18 @@
+.card{
+    width: 80%;
+    border: 1px solid lightblue;
+    border-radius: 8px;
+    overflow: hidden;
+    font-size: 14px;
+    /* margin: 0 auto; */
+}
+.cardupper{
+    line-height: 0;
+    display: flex;
+    justify-content: center;
+}
+.cardlower{
+    display: flex;
+    justify-content: center; 
+    background: lightblue;
+}

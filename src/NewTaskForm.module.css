@@ -1,0 +1,41 @@
+.formWrapper{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    font-size: 12px;
+    border: 2px solid lightgray;
+    border-radius: 6px;
+    padding: 12px;
+    padding-top: 0;
+    
+}
+input{
+    border-width: 1px;
+}
+h6{
+    font-weight: 500;
+    font-size: 14px;
+    margin-block: 8px;
+}
+.fullWidth{
+    border-radius: 4px;
+    width: 100%;
+}
+.formTitleWrapper{
+    font-size: 14px;
+    font-weight: 500;
+    width:100%;
+    border-bottom: 1px solid lightgray;
+    /* align-self: center; */
+}
+.button{
+    padding: 10px 8px;
+    background: blue;
+    border:none;
+    border-radius: 6px;
+    /* margin: 0 auto; */
+    display: inline-block;
+    
+ }

@@ -1,0 +1,13 @@
+/* .flex{
+    display: flex;
+    justify-content: center;
+} */
+.button{
+    padding: 10px 8px;
+    background: blue;
+    border:none;
+    border-radius: 6px;
+    /* margin: 0 auto; */
+    display: inline-block;
+    
+ }
